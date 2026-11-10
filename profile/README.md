@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://devhub-community.fr/logo-header.php" width="120" alt="DevHub Community">
+<img src="[https://devhub-community.fr/logo-header.php](https://avatars.githubusercontent.com/u/327652386?s=200&v=4)" width="120" alt="DevHub Community">
 
 # DevHub Community
 
